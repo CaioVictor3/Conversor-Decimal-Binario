@@ -1,1 +1,1 @@
-# Conversor-Decimal-Binario
+O programa em Java irá exibir um Menu e solicitar ao usuário qual opção ele deseja: converter de Decimar para Binário ou Binário para Decimal. Após o usuário digitar a opção que deseja, o programa irá solicitar o número e, após o usuário digitar, o programa irá realizar a conversão e exibir na tela. Para sair, basta o usuário digitar o número 3 no Menu.
